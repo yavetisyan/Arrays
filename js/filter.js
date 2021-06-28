@@ -60,4 +60,3 @@ let debts = clients
   .sort((a, b) => b.debt - a.debt);
 
 console.log(debts);
-w;
